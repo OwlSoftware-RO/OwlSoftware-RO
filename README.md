@@ -1,0 +1,4 @@
+- 👋 Hi, We are @OwlSoftware-RO a web development company based in Romania.
+- 👀 We are interested in researching and building better applications for clients.
+- 🌱 We are currently working with Laravel and DotNet as backend technologies and Angular on frontend. And for game development we are using Unity.
+- 💞️ We are looking to collaborate on web and gaming projects.
